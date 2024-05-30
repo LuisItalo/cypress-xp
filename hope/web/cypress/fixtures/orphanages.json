@@ -1,0 +1,47 @@
+{
+    "create": {
+        "name": "Orfanato Esperança",
+        "description": "Instituição que oferece um lar temporário, educação, saúde e suporte emocional para crianças órfãs ou abandonadas. Focamos na reabilitação e reintegração familiar para proporcionar um futuro melhor.",
+        "opening_hours": "Segunda a Sexta: 08:00 - 18:00",
+        "open_on_weekends": false,
+        "position": {
+            "latitude": -3.71722,
+            "longitude": -38.54321
+        },
+        "image": "kids-playground-1.png"
+    },
+    "duplicate": {
+        "name": "Casa dos Pequenos",
+        "description": "Orfanato dedicado a crianças de 0 a 10 anos, proporcionando cuidados de saúde, educação, alimentação e atividades recreativas. Buscamos criar um ambiente acolhedor e seguro para o desenvolvimento integral.",
+        "opening_hours": "Segunda a Sexta: 07:00 - 17:00",
+        "open_on_weekends": true,
+        "position": {
+            "latitude": -3.74500,
+            "longitude": -38.52500
+        },
+        "image": "kids-playground-5.png"
+    },
+    "map": {
+        "name": "Lar da Criança Feliz",
+        "description": "Instituição que acolhe crianças de todas as idades, oferecendo suporte emocional, educação básica, alimentação e atividades recreativas. Trabalhamos para o bem-estar e desenvolvimento saudável das crianças.",
+        "opening_hours": "Segunda a Sexta: 09:00 - 19:00",
+        "open_on_weekends": false,
+        "position": {
+            "latitude": -3.73333,
+            "longitude": -38.52667
+        },
+        "image": "kids-playground-7.png"
+    },
+    "required": {
+        "name": "Lar da Criança",
+        "description": "Instituição que acolhe crianças de todas as idades, oferecendo suporte emocional, educação básica, alimentação e atividades recreativas. Trabalhamos para o bem-estar e desenvolvimento saudável das crianças.",
+        "opening_hours": "Segunda a Sexta: 09:00 - 19:00",
+        "open_on_weekends": true,
+        "position": {
+            "latitude": -3.73333,
+            "longitude": -38.52667
+        },
+        "image": "kids-playground-7.png"
+    }
+
+}
